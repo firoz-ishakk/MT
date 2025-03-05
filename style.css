@@ -254,6 +254,10 @@ body {
     background: #00a6ff;
   }
 
+  .icon-container{
+    margin-bottom: 20px;
+  }
+
   #header h1 {
     font-size: 20px;
   }
@@ -268,3 +272,4 @@ body {
     display: block;
   }
 }
+

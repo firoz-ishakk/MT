@@ -45,6 +45,8 @@ body {
   height: 50%;
   overflow-x: auto;
   white-space: nowrap;
+  direction: rtl;
+
 }
 .products::-webkit-scrollbar {
   display: none;

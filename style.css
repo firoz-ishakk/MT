@@ -56,7 +56,7 @@ body {
 .product-card {
   flex: 0 0 calc(140% / 4 - 180px); 
   position: relative;
-  width: 200px;
+  max-width: 140%;
   height: 490px;
   background-color: rgb(255, 255, 255);
   direction: ltr;
